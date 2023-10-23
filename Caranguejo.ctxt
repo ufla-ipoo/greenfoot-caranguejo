@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Caranguejo
+comment1.params=
+comment1.target=void\ Caranguejo()
+comment1.text=\r\n\ Act\ -\ faz\ o\ que\ o\ Caranguejo\ queira\ fazer.\r\n\ Este\ m\u00E9todo\ \u00E9\ chamado\ sempre\ que\ o\ bot\u00E3o\ 'Executar'\ ou\r\n\ 'Executar\ uma\ vez'\ \u00E9\ chamado\ no\ ambiente.\r\n
+numComments=2
